@@ -1,0 +1,6 @@
+goascii.exe
+goascii
+*.out
+*.test
+.idea/
+.vscode/
